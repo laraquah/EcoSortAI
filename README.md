@@ -52,7 +52,8 @@ Each avatar unlocks different rewards based on your eco-performance.
 
 1. Locally (through Jupyter LaB
 
---
+---
 
 ## Thank you for visiting! ⭐
 - This project was done for one of my classes!
+![Thank you](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY0Mmg2c2M0YTVyd28yOHp3am1nNGlwdWdwd2J3d21jbGltemV4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uDNHZAxdKrUcQ2yVLs/giphy.gif)
