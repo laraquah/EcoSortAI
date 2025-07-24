@@ -7,14 +7,14 @@ EcoSortAI is a smart recycling assistant that helps users detect recyclable mate
 
 ---
 
-## 📊 EcoSort's Overview
+## EcoSort's Overview
 
 Displays a bar graph showing how often each material — Cardboard, Metal, Paper, and Plastic — was detected in a given month.  
 This helps users visualize which recyclables they interact with most frequently.
 
 ---
 
-## 📈 Waste Tracking
+## Waste Tracking
 
 Shows a line graph of total credits earned over time based on material detection.  
 Below the graph, there’s a table listing:
@@ -29,14 +29,14 @@ Points are awarded as follows:
 
 ---
 
-## 🎥 Material Recognition
+## Material Recognition
 
 Activates the user’s webcam to detect materials live using AI.  
 Detected materials are displayed below the video with their names and logged into a table for tracking.
 
 ---
 
-## 🏆 EcoPoints Redemption
+## EcoPoints Redemption
 
 Users can spend their earned points by choosing one of four avatars:
 - Balance Seeker  
@@ -48,7 +48,7 @@ Each avatar unlocks different rewards based on your eco-performance.
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Locally (through Jupyter LaB
 
