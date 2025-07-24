@@ -55,5 +55,5 @@ Each avatar unlocks different rewards based on your eco-performance.
 ---
 
 ## Thank you for visiting! ⭐
-- This project was done for one of my classes!
+- EcoSortAI was something I worked on for one of my classes, it was a group project, but I personally handled the UI design using Streamlit and trained the model multiple times to sharpen its performance!
 ![Thank you](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY0Mmg2c2M0YTVyd28yOHp3am1nNGlwdWdwd2J3d21jbGltemV4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uDNHZAxdKrUcQ2yVLs/giphy.gif)
