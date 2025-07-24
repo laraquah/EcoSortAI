@@ -1,7 +1,7 @@
 # 🌍 EcoSortAI
 
 ![EcoSortAI Logo](ecosort_logo3.png)  
-*Logo created using Canva, featuring four arrows — each representing one of the material classes: Cardboard, Metal, Paper, and Plastic.*
+*Logo created using Canva, featuring four arrows where each represents one of the material classes: Cardboard, Metal, Paper, and Plastic.*
 
 EcoSortAI is a smart recycling assistant that helps users detect recyclable materials, track their waste habits, and earn points they can redeem for cool rewards.
 
