@@ -50,7 +50,7 @@ Each avatar unlocks different rewards based on your eco-performance.
 
 ## How to Run
 
-1. Locally (through Jupyter LaB
+1. Locally 
 
 ---
 
